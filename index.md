@@ -1,8 +1,6 @@
-# Conjectural Concepts -Valhalla of illogics
+# Conjectural Concepts - Valhalla of illogics
 
 ![World](http://www.pngmart.com/files/4/Technology-PNG-Image.png)
-
-![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
@@ -12,7 +10,9 @@
 
 - [![Project](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **PROJECTS**](project)
   
-  - [![MagLev Fan](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **MAGLEV FAN**](maglev)
+  - [![MagLev Fan](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bikewheel-24.png)  **MAGLEV FAN**](maglev)
+  
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
 
 ### CONTACT DETAILS
