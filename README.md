@@ -71,7 +71,7 @@ There are three ways to install the theme: as a Ruby gem (for self-hosted sites)
 
 ### Ruby Gem Method
 
-1. Install the theme as a Ruby Gem by adding it to your `Gemfile` like so:
+1. Install the theme as a Ruby Gem by adding it to your `Gemfile` like so
 
    ```ruby
    gem "minimal-mistakes-jekyll"
