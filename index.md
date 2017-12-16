@@ -1,4 +1,4 @@
-# Conjectural Concepts - ## Valhalla of illogics
+# Conjectural Concepts -Valhalla of illogics
 
 ![World](http://www.pngmart.com/files/4/Technology-PNG-Image.png)
 
