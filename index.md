@@ -8,7 +8,7 @@
 
 - [![About Us](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/profle-24.png)  **ABOUT US**](aboutus)
 
-- [![Project](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **PROJECTS**](project)
+- [![Project](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **PROJECTS**](maglev)
   
   - [![MagLev Fan](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bikewheel-24.png)  **MAGLEV FAN**](maglev)
   
